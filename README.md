@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="discord.com" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" />][discord]
+[<img align="left" alt="https://discord.sazify.cc/" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" />][discord]
 
 <br />
 
@@ -21,4 +21,4 @@
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 
-[discord]: https://discord/sazify.cc/
+[discord]: https://discord.sazify.cc/
